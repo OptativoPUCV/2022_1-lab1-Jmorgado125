@@ -38,3 +38,7 @@ do., 13 de mar. de 2022 23:42:53:
 ./test.sh: line 26: gcc: command not found
 Compilation failed
 40ff350
+do., 13 de mar. de 2022 23:51:16: 
+./test.sh: line 26: gcc: command not found
+Compilation failed
+8e85659
